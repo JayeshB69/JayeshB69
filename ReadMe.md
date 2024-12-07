@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently learning Full Stack development and Python Artificial Intelligence and Machine Learning.<br>Proficient in HTML, CSS, JavaScript, Python<br>Mern stack <br>I want to build a server for VR (like hyperlink server from SAO anime)
-
+NEXT Goal 🎯 - RUST, GO
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-baranwal-99880b152) 
